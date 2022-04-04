@@ -9,4 +9,4 @@ int main(){
         if(c<b)
         cout << c << " ";
     }
-} // adjusted
+} // adjusted // third
